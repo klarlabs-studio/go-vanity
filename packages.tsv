@@ -1,0 +1,11 @@
+agent	agent-go
+mcp	mcp-go
+axi	axi-go
+fortify	fortify
+statekit	statekit
+bolt	bolt
+mnemos	mnemos
+scout	scout
+coverctl	coverctl
+briefkasten	briefkasten
+nomi	nomi
