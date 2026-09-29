@@ -19,6 +19,7 @@ See [`packages.tsv`](packages.tsv) — one line per package: `<import name>\t<gi
 | `go.klarlabs.de/coverctl` | [klarlabs-studio/coverctl](https://github.com/klarlabs-studio/coverctl) |
 | `go.klarlabs.de/briefkasten` | [klarlabs-studio/briefkasten](https://github.com/klarlabs-studio/briefkasten) |
 | `go.klarlabs.de/nomi` | [klarlabs-studio/nomi](https://github.com/klarlabs-studio/nomi) |
+| `go.klarlabs.de/vitra` | [klarlabs-studio/vitra](https://github.com/klarlabs-studio/vitra) |
 
 ## How it works
 
